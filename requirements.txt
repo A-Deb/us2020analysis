@@ -1,7 +1,1 @@
 pandas
-numpy
-gzip
-os
-io
-csv
-glob
